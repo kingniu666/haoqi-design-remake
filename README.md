@@ -2,6 +2,8 @@
 
 A motion-heavy portfolio study/remake inspired by [haoqi.design](https://haoqi.design/).
 
+![Homepage screenshot](assets/homepage-screenshot.jpg)
+
 This repository is a learning-oriented recreation of the interaction style, transition rhythm, and visual energy of the reference website. The personal information, original project names, original profile imagery, social links, and visible author identifiers have been replaced with neutral placeholder content and generated replacement imagery.
 
 ## Reference And Attribution
